@@ -3,6 +3,6 @@ Oficinas e atividade pontuada realizada em AEDs II, tendo em vista algoritmos de
 
 ## Aluno 
 
-* Nome completo do aluno 1
+* Gabriel Leal Matos
 
 
